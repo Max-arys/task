@@ -60,4 +60,4 @@ print(2, '-all')
 print(any(a), '-any')
 
 # тернарный оператор
-print('Hello' if all(a) else 'Good bye', '-ternary')
+print(('Hello' if all(a) else 'Good bye'), '-ternary')
